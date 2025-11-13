@@ -1,4 +1,5 @@
 1 Arduino Uno with Cable
+1 Breadboard
 
 6 Tactile Buttons
 8 LEDS (Any color)
